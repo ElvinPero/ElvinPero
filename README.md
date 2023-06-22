@@ -7,7 +7,7 @@
 ## 💫 About Me:
 👨‍🎓 I'm currently an undergraduate student at Delhi Technological University (DTU), New Delhi, India<br>
 🔭 I’m working on some MERN projects...<br>
-🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> , <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> and <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> ...<br>
+🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">  and <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> ...<br>
 👯 I’m looking to collaborate on open-source projects and some hackathons...<br>
 
 📫 How to reach me: <a href="mailto:invincible142002@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
