@@ -39,7 +39,7 @@
 </p>
 
 ## 📛 Badges in Hacktoberfest'22:
-### [![@Elvin Pero's Holopin board](https://holopin.me/lunarmarshmallow)](https://holopin.io/@lord_benjamin)
+### ![@Elvin Pero's Holopin board](https://holopin.me/elvinpero14)
 
 
 
